@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{API with currency rates from cbr.ru.}
   spec.description   = %q{Fetching currency rates from cbr.ru.}
-  spec.homepage      = "https://github.com/rubygitflow/cbr_rates."
+  spec.homepage      = "https://github.com/rubygitflow/cbr_rates"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
